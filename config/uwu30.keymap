@@ -15,7 +15,7 @@
 
         combo_mo1 {
             timeout-ms = <50>;
-            require-prior-idle-ms = <200>;
+            require-prior-idle-ms = <100>;
             key-positions = <28 29>;
             bindings = <&tog 1>;
         };
@@ -24,12 +24,12 @@
 
 &mt {
     flavor = "tap-preferred";
-    tapping-term-ms = <150>;
+    tapping-term-ms = <100>;
 };
 
 &lt {
     flavor = "tap-preferred";
-    tapping-term-ms = <200>;
+    tapping-term-ms = <100>;
 };
 
 / {
