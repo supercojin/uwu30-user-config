@@ -25,6 +25,3 @@ include:
     artifact-name: uwu30_studio
   - board: uwu30
     shield: settings_reset
-    
-env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
