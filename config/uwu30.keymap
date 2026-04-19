@@ -23,15 +23,13 @@
 };
 
 &mt {
-    flavor = "tap-unless-interrupted";
-    tapping-term-ms = <150>;
+    flavor = "tap-preferred";
+    tapping-term-ms = <130>;
 };
 
 &lt {
-    flavor = "tap-unless-interrupted";
-    tapping-term-ms = <150>;
-};
-
+    flavor = "tap-preferred";
+    tapping-term-ms = <130>
 / {
     keymap {
         compatible = "zmk,keymap";
