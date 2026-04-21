@@ -23,7 +23,7 @@
 };
 
 &mt {
-    flavor = "tap-preferred";
+    flavor = "balanced";
     tapping-term-ms = <150>;
 };
 
