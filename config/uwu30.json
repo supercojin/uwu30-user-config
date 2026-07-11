@@ -35,12 +35,9 @@
         { "row": 2, "col": 8, "x": 8.75, "y": 2, "label":                       ">\n." },
         { "row": 2, "col": 9, "x": 9.75, "y": 2, "label":                      "Shift" },
       
-        { "row": 3, "col": 0, "x":    0, "y": 3, "label":                          "a" },
-        { "row": 3, "col": 2, "x": 2.75, "y": 3, "label":                          "s" },
-        { "row": 3, "col": 3, "x": 3.75, "y": 3, "label":                          "d" },
-        { "row": 3, "col": 5, "x":  5.5, "y": 3, "label":                          "f" },  
-        { "row": 3, "col": 7, "x": 7.25, "y": 3, "label":                          "g" },
-        { "row": 3, "col": 9, "x": 9.25, "y": 3, "label":                          "h" },
+        { "row": 3, "col": 0, "x":    0, "y": 3, "label":          "Ctrl\n\n\n\n1.25u", "u": 1.25 },
+        { "row": 3, "col": 4, "x": 2.25, "y": 3, "label":              "\n\n\n\n6.25u", "u": 6.25 },
+        { "row": 3, "col": 9, "x":  9.5, "y": 3, "label":          "Ctrl\n\n\n\n1.25u", "u": 1.25 }
       ]
     }
   }
