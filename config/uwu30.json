@@ -38,7 +38,8 @@
         { "row": 3, "col": 0, "x":    0, "y": 3, "label":          "Ctrl\n\n\n\n1.25u", "u": 1.25 },
         { "row": 3, "col": 1, "x": 1.25, "y": 3, "label":             "Ctrl\n\n\n\n1u", "u": 1 },
         { "row": 3, "col": 4, "x": 2.25, "y": 3, "label":              "\n\n\n\n6.25u", "u": 2.25 },
-        { "row": 3, "col": 9, "x":  5.5, "y": 3, "label":          "Ctrl\n\n\n\n1.25u", "u": 1.25 }
+        { "row": 3, "col": 6, "x":  5.5, "y": 3, "label":             "Ctrl\n\n\n\n1u", "u": 1 },
+        { "row": 3, "col": 9, "x":  6.5, "y": 3, "label":          "Ctrl\n\n\n\n1.25u", "u": 1.25 }
       ]
     }
   }
