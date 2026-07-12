@@ -2,15 +2,17 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: quark-works
+    # Add the base GitHub URL as a remote.
+    - name: quark-works # You can name this whatever you like; just make sure the "remote" below matches.
       url-base: https://github.com/quark-works
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision:  v0.3.0
+      revision: main
       import: app/west.yml
+    # Add the name of the repository as a project.
     - name: uwu30-zmk-config
       remote: quark-works
-      revision: main
+      revision: main # This is the name of the branch you want to use.
   self:
     path: config
